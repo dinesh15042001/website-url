@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url(images/qqq.jpg);
+}
+.one{
+    
+    background-color: rgb(104, 215, 243);
+    color: black;
+    text-align: justify;
+    opacity: 100%;
+
+}
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+}
+li a{
+    color: black;
+}
+li{
+    float: left;
+    padding: 2%;
+}
+li a{
+    text-align: justify;
+    text-decoration: none;
+    color: rgb(8, 8, 8);
+    display: block;
+}
+.hh{
+    padding-left: 22%;
+    background-color: rgb(192, 172, 197);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: solid;
+    
+}
+.tyty{
+    background-color: blueviolet;
+    padding-right: 10%;
+    padding-left: 2%;
+}
+.tt{
+    padding-left: 2%;
+    padding-right: 80%;
+    text-align: justify;
+    transition: none;
+    text-overflow: none;
+    text-decoration: none;
+    transform: none;
+    transform-origin: ;
+    text-rendering: auto;
+}
